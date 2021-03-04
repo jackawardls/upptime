@@ -4,19 +4,19 @@
     "url": "http://server1.awardls.com/upptimetest/down",
     "icon": "https://favicons.githubusercontent.com/server1.awardls.com",
     "slug": "upptimetest-down-site",
-    "status": "down",
-    "uptime": "2.98%",
-    "uptimeDay": "2.98%",
-    "uptimeWeek": "2.98%",
-    "uptimeMonth": "2.98%",
-    "uptimeYear": "2.98%",
-    "time": 329,
-    "timeDay": 329,
-    "timeWeek": 329,
-    "timeMonth": 329,
-    "timeYear": 329,
+    "status": "up",
+    "uptime": "82.51%",
+    "uptimeDay": "82.51%",
+    "uptimeWeek": "82.51%",
+    "uptimeMonth": "82.51%",
+    "uptimeYear": "82.51%",
+    "time": 349,
+    "timeDay": 349,
+    "timeWeek": 349,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {
-      "2021-03-04": 1
+      "2021-03-04": 6
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 229,
-    "timeWeek": 229,
-    "timeMonth": 229,
-    "timeYear": 229,
+    "time": 204,
+    "timeDay": 204,
+    "timeWeek": 204,
+    "timeMonth": 204,
+    "timeYear": 204,
     "dailyMinutesDown": {}
   }
 ]
