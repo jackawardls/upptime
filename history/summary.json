@@ -60,17 +60,17 @@
     "url": "https://devlearn.co.uk/moodle",
     "icon": "https://favicons.githubusercontent.com/devlearn.co.uk",
     "slug": "dev-learn-moodle",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 495,
-    "timeDay": 495,
-    "timeWeek": 713,
-    "timeMonth": 545,
-    "timeYear": 495,
+    "time": 496,
+    "timeDay": 564,
+    "timeWeek": 712,
+    "timeMonth": 550,
+    "timeYear": 496,
     "dailyMinutesDown": {}
   }
 ]
