@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 274,
-    "timeWeek": 330,
-    "timeMonth": 360,
+    "timeDay": 336,
+    "timeWeek": 335,
+    "timeMonth": 362,
     "timeYear": 377,
-    "dailyMinutesDown": {
-      "2021-03-04": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Upptimetest up site",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 694,
-    "timeDay": 633,
-    "timeWeek": 645,
-    "timeMonth": 658,
+    "timeDay": 617,
+    "timeWeek": 648,
+    "timeMonth": 661,
     "timeYear": 694,
     "dailyMinutesDown": {}
   },
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 692,
-    "timeWeek": 454,
-    "timeMonth": 483,
-    "timeYear": 494,
+    "time": 493,
+    "timeDay": 378,
+    "timeWeek": 457,
+    "timeMonth": 480,
+    "timeYear": 493,
     "dailyMinutesDown": {}
   }
 ]
