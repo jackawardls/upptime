@@ -31,7 +31,7 @@
     "time": 288,
     "timeDay": 241,
     "timeWeek": 321,
-    "timeMonth": 290,
+    "timeMonth": 288,
     "timeYear": 290,
     "dailyMinutesDown": {}
   },
@@ -40,7 +40,7 @@
     "url": "https://devlearn.co.uk",
     "icon": "https://favicons.githubusercontent.com/devlearn.co.uk",
     "slug": "dev-learn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -49,7 +49,7 @@
     "time": 696,
     "timeDay": 588,
     "timeWeek": 789,
-    "timeMonth": 677,
+    "timeMonth": 678,
     "timeYear": 696,
     "dailyMinutesDown": {}
   },
@@ -58,7 +58,7 @@
     "url": "https://devlearn.co.uk/moodle",
     "icon": "https://favicons.githubusercontent.com/devlearn.co.uk",
     "slug": "dev-learn-moodle",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -67,7 +67,7 @@
     "time": 496,
     "timeDay": 680,
     "timeWeek": 629,
-    "timeMonth": 480,
+    "timeMonth": 466,
     "timeYear": 496,
     "dailyMinutesDown": {}
   }
